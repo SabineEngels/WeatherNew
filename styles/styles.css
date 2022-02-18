@@ -1,3 +1,14 @@
-h1 {
-    color: blue;
+#logo {
+    max-width: 70px;
+    margin: 0 auto;
+    
+}
+
+.background {
+    background-color: #f9fcff;
+    max-width: 65%;
+    border-radius: 25px;
+  height: 700px;
+  width: 850px;
+  margin: 0 auto;
 }
