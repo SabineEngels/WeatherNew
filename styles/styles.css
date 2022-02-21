@@ -1,14 +1,104 @@
-#logo {
-    max-width: 70px;
-    margin: 0 auto;
-    
+.page {
+    background-color: #d8eef7;
+}
+
+.container {
+    font-family: montserrat;
 }
 
 .background {
-    background-color: #f9fcff;
+    background-color: #dfe5eb;
     max-width: 65%;
     border-radius: 25px;
   height: 700px;
   width: 850px;
   margin: 0 auto;
+   margin-top: 5%;
+}
+
+#logo {
+    max-width: 100px;
+    margin: 0 auto;
+    padding: 10px 20px;
+    border-radius: 50%;
+    
+}
+
+.enter {
+    background-color: #ddeff7;
+border-radius: 5px;
+margin: 0 auto;
+width: 405px;
+height: 45px;
+border: 5px;
+text-align: left;
+margin-top: 2%;
+margin-left: 3%;
+}
+
+.search {
+    margin: 15px;
+    width: 150px;
+    height: 45px;
+    background-color: #9bc2e8;
+    border-radius: 5px;
+    border: 5px;
+    color: grey;
+margin-top: 2%;
+
+}
+
+#current {
+    margin-left: 15px;
+    width: 150px;
+    height: 45px;
+    background-color: #9bc2e8;
+    border-radius: 5px;
+    border: 5px;
+    color: grey;
+margin-top: 2%;
+}
+
+.banner{
+   width: 760px;
+   height: 150px;
+   margin-top: 35px;
+   border-radius: 5px;
+   margin-left: 25px;
+   margin-right: 25px;
+}
+
+#cityname {
+    padding: 35px 25px;
+    text-decoration: underline;
+    text-decoration: double;
+}
+
+#date {
+    margin-left: 25px;
+}
+
+#humi {
+    margin-left: 25px;
+    color: rgb(133, 131, 131);
+}
+
+#wind {
+    margin-left: 25px;
+    color: rgb(133, 131, 131);
+}
+
+#temperature-description {
+    margin-left: 25px;
+    color: rgb(133, 131, 131);
+}
+
+.nameCity {
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: xx-large;
+}
+
+#pic {
+    margin-top: 70px;
 }
