@@ -102,3 +102,10 @@ margin-top: 2%;
 #pic {
     margin-top: 70px;
 }
+
+.footer {
+    margin: 0 auto;
+display: block;
+margin-left: 550px;
+padding-top: 25px;
+}
